@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Numeros</string>
+    <string name="txtIngresa">Ingresa uno o varios numeros para ordenarlos de menor a mayor</string>
+    <string name="buttonIngresa">ingresar</string>
+    <string name="buttonOrdena">ordenar</string>
+    <string name="txtNumber">INGRESA TU NUMERO</string>
 </resources>
