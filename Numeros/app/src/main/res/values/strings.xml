@@ -1,8 +1,12 @@
 <resources>
     <string name="app_name">Numeros</string>
-    <string name="txtIngresa">Ingresa uno o varios numeros para ordenarlos de menor a mayor</string>
+    <string name="txtIngresa">¿Cuántos números deseas ordenar?</string>
     <string name="buttonIngresa">ingresar número</string>
-    <string name="buttonOrdenaMenor">ordena menor</string>
-    <string name="txtNumber">INGRESA TU NUMERO</string>
+    <string name="buttonContinuar">continuar</string>
+    <string name="txtNumber">Ingresa cuantos números deseas ordenar</string>
     <string name="buttonOrdenaMayor">ordena mayor</string>
+    <string name="tvNumber">Números</string>
+    <string name="txtElige">Elige el modo de ordenamiento</string>
+    <string name="buttonOrdenaMenor">ordena menor</string>
+    <string name="IngresaNum">Ingresa número</string>
 </resources>
