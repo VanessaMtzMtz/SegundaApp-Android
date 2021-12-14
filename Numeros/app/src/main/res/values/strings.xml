@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Numeros</string>
+    <string name="app_name">Números</string>
     <string name="txtIngresa">¿Cuántos números deseas ordenar?</string>
     <string name="buttonIngresa">ingresar número</string>
     <string name="buttonContinuar">continuar</string>
