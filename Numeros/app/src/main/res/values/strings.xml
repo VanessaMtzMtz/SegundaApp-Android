@@ -9,4 +9,5 @@
     <string name="txtElige">Elige el modo de ordenamiento</string>
     <string name="buttonOrdenaMenor">ordena menor</string>
     <string name="IngresaNum">Ingresa número</string>
+    <string name="bttnRet">Regresar</string>
 </resources>

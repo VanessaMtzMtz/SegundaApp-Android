@@ -1,5 +1,6 @@
 package com.example.numeros
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
@@ -70,5 +71,10 @@ class MainActivity2 : AppCompatActivity() {
         }else{
             Toast.makeText(this, "Se necesita ingresar al menos 1 número", Toast.LENGTH_LONG).show()
         }
+    }
+
+    fun clickButtonRegresar(view: View) {
+        val intent = Intent(this,MainActivity::class.java)
+        startActivity(intent)
     }
 }
